@@ -1,3 +1,4 @@
 [components]
 https://github.com/MksmOrlov/lion-kb-component
+https://github.com/MksmOrlov/ui-menu-component
 
